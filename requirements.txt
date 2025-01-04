@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+groq
+werkzeug
+requests
+python-docx 
+reportlab
+openpyxl
